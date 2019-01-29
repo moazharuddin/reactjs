@@ -1,3 +1,7 @@
 # reactjs
 
-This is simple react app with a table
+I love Reactjs.
+
+This project contains sample table design.
+
+npm run will get you started
